@@ -1,22 +1,22 @@
 {
-    "pageTitle": "너의 얼굴은",
-    "mainTitle": "난 잘생겼을까?",
-    "subtitle": "인공지능으로 보는 잘생김 테스트",
+    "pageTitle": "너는 사람일까?",
+    "mainTitle": "난 사람일까?",
+    "subtitle": "인공지능으로 보는 사람 테스트",
     "footerText": "&copy; 허석테크 2024. All Rights Reserved.",
     
     "modelUrl": "https://teachablemachine.withgoogle.com/models/42a8-x3k2/",
     "classDetails": [
         {
-            "name": "잘생김",
-            "title": "잘생김",
-            "explain": "당신은 잘생겼습니다! 여담으로 못생김을 학습시킬때는 사람이 아닌 사진들만 학습시켰는데 못생김이 1%라도 나왔다면..? ",
+            "name": "사람",
+            "title": "사람임",
+            "explain": "당신은 사람입니다! 학습시킬때는 사람이 아닌 사진들만 학습시켰는데 사람 아님이 1%라도 나왔다면..? ",
             "celeb": "",
             "color": "rgba(27, 175, 234, 1)"
         },
         {
-            "name": "못생김",
-            "title": "못생김",
-            "explain": "당신은 못생겼습니다! 못생김을 학습시킬때는 사람이 아닌 사진들만 학습시켰는데 못생김이 나오셨다니 정말 대단한 못생김력이군요! ",
+            "name": "사람 아님",
+            "title": "사람 아님",
+            "explain": "당신은 사람이 아닙니다! 사람 아님을 학습시킬때는 사람이 아닌 사진들만 학습시켰는데 사람 아님이 나오셨다니 진짜 사람이 아닌가요? ",
             "celeb": "",
             "color": "rgba(251, 176, 59, 1)"
         } 
