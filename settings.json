@@ -1,7 +1,7 @@
 {
     "pageTitle": "너의 얼굴은?",
     "mainTitle": "난 잘생겼을까?",
-    "subtitle": "인공지능으로 보는 잘생김 테스트",
+    "subtitle": "인공지능으로 보는 잘생김 테스트(남자 or 사람아님 전용)",
     "footerText": "&copy; 허석테크 2024. All Rights Reserved.",
     
     "modelUrl": "https://teachablemachine.withgoogle.com/models/42a8-x3k2/",
